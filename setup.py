@@ -9,7 +9,7 @@ with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='simpletable',
+    name='easytable',
 
     version='0.1',
 
@@ -17,7 +17,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/plazazur/simpletable',
+    url='https://github.com/plazazur/easytable',
 
     # Author details
     author='Trung Nguyen',
